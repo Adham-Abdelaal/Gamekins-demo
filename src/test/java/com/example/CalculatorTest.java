@@ -12,11 +12,11 @@ public class CalculatorTest {
     }
 
     // UNCOMMENT THIS DURING THE LIVE DEMO TO WIN POINTS
-    /*
+    
     @Test
     public void testSubtract() {
         Calculator calc = new Calculator();
         assertEquals(1, calc.subtract(3, 2));
     }
-    */
+    
 }
